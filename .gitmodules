@@ -4,3 +4,6 @@
 [submodule "data_desk"]
 	path = data_desk
 	url = https://github.com/ryanfleury/data_desk.git
+[submodule "kaiser_data"]
+	path = kaiser_data
+	url = https://github.com/mundusnine/kaiser_data.git
