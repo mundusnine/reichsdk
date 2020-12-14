@@ -1,0 +1,6 @@
+[submodule "cr"]
+	path = cr
+	url = https://github.com/fungos/cr.git
+[submodule "data_desk"]
+	path = data_desk
+	url = https://github.com/ryanfleury/data_desk.git
